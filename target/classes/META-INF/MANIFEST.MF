@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: hascode-resource
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: com.difinite
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/hascode-reso
+ urce/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
